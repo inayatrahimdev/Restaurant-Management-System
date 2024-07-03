@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "g++",
+        "args": [
+          "-g",
+          "main.cpp",
+          "menu.cpp",
+          "order.cpp",
+          "customer.cpp",
+          "inventory.cpp",
+          "report.cpp",
+          "-o",
+          "restaurant_management_system"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"],
+        "detail": "Generated task by user"
+      }
+    ]
+  }
+  
