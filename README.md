@@ -17,7 +17,7 @@ To run the program, compile the source files using a C++ compiler and execute th
 - Modify `menu.cpp`, `order.cpp`, `customer.cpp`, `inventory.cpp`, and `report.cpp` for custom functionality.
 
 ## Contributors
-- [Inayatrahim](https://github.com/inayatrahimdev/Restaurant-Management-System/)
+- [Inayatrahimdev](https://github.com/inayatrahimdev/Restaurant-Management-System/)
 
 Feel free to fork the repository and contribute!
 
